@@ -9,7 +9,7 @@
     <br/>
     Bridging the gap between advanced reasoning and elegant, human-centric interface design.
     <br/>
-    <a href="README_zh.md">简体中文</a> | <a href="https://github.com/yourusername/Claude-Design/issues">Report Bug</a> | <a href="https://github.com/yourusername/Claude-Design/discussions">Discussions</a>
+    <a href="README_zh.md">简体中文</a> | <a href="https://github.com/mikesheehan54/Claude-Code-Design-AI/issues">Report Bug</a> | <a href="https://github.com/mikesheehan54/Claude-Code-Design-AI/issues">Discussions</a>
   </p>
 
   <p align="center">
