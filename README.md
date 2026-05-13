@@ -32,7 +32,7 @@
 
 > [!Important]  
 > This system is optimized for **React 18+** and **Tailwind CSS**. It includes built-in hooks for Anthropic's Messages API to handle streaming UI states gracefully.
-
+<img width="2876" height="1614" alt="image" src="https://github.com/user-attachments/assets/3142551c-90bf-4c3e-a23a-73c81bfeb124" />
 ##  Key Features
 
 -  **Semantic Typography**: Custom-tuned font scales for maximum readability during long-form AI reasoning.
